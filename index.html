@@ -14,6 +14,8 @@
         <script src="./js/script.js"></script> 
         <!-- Charset -->
         <meta charset="UTF-8">
+        <!-- Viewport -->
+        <meta name="viewport" content="width=width, user-scalable=no">
     </head>
 
     <body onload="main()">
