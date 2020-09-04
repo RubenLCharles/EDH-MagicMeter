@@ -6,4 +6,4 @@ Esta aplicación WEB es un proyecto personal con el propósito de automatizar mi
 
 ### Última Actualización: Septiembre 1, 2020
 ##### Cambios:
-* Creación del repisotorio en GitHub.
+* Creación del repositorio en GitHub.
